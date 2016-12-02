@@ -9,6 +9,7 @@
   "author": "DonyZ",
   "license": "ISC",
   "devDependencies": {
+    "html-webpack-plugin": "^2.24.1",
     "webpack": "^1.13.3"
   }
 }
